@@ -1,0 +1,5 @@
+settings.py
+.idea/
+.git/
+*.pdf
+__pycache__/
